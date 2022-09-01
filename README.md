@@ -14,7 +14,6 @@
 <a href="https://www.hackerrank.com/pradeepprusty380" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pradeepprusty380" height="30" width="40"/></a>
 </p>
 
-
 <hr>
 <pre>
  🌱 I’m currently learning <b>Data Science, ML, DL, AI</b>
