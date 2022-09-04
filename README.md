@@ -40,18 +40,10 @@
 ### 🧰 Frameworks and Libraries
 
 <p>
-    <a href="https://github.com/Pradeep-prusty"><img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=Keras&logoColor=white"></a>
     <a href="https://github.com/Pradeep-prusty"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
     <a href="https://github.com/Pradeep-prusty"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
     <a href="https://github.com/Pradeep-prusty"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
     <a href="https://github.com/Pradeep-prusty"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%23150458.svg?logo=Bootstrap&logoColor=white"></a>
-</p>
-
-### 🗄️ Databases and Cloud Hosting
-
-<p>
-    <a href="https://github.com/Pradeep-prusty"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
-    <a href="https://github.com/Pradeep-prusty"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23FF6F00.svg?logo=firebase&logoColor=white"></a>
 </p>
 
 ### 💻 Software and Tools
@@ -64,6 +56,33 @@
     <a href="https://github.com/Pradeep-prusty"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="https://github.com/Pradeep-prusty"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
+
+
+
+
+<h2> :open_file_folder: Data Analytics Projects </h2>
+<div>
+  <p align="center">
+    	<a href="https://github.com/Pradeep-prusty/Cricket-Scorecard-Analysis">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Pradeep-prusty&repo=Cricket-Scorecard-Analysis&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+    	<a href="https://github.com/Pradeep-prusty/IMDB-Dataset-Analysis">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Pradeep-prusty&repo=IMDB-Dataset-Analysis&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+    	<a href="https://github.com/Pradeep-prusty/Hotel-Booking-Analysis">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Pradeep-prusty&repo=Hotel-Booking-Analysis&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+      <a href="https://github.com/Pradeep-prusty/Global-Terrorism-Analysis">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Pradeep-prusty&repo=Global-Terrorism-Analysis&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+      <a href="https://github.com/Pradeep-prusty/Telecom-Churn-Analysis">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Pradeep-prusty&repo=Telecom-Churn-Analysis&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+  </p>
+</div>
+
+
+
 
 ## 👨‍💻 My Stats
 
