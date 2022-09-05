@@ -7,6 +7,7 @@
   <a href="https://github.com/pradeep-prusty/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Competitive+Programmer;Data+Science+Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/pradeep-prusty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pradeep-prusty" height="30" width="40" /></a>
