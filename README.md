@@ -65,7 +65,7 @@
 
 
 
-<h2> :open_file_folder: Data Analytics Projects </h2>
+<h2> :open_file_folder: Data Analytics Projects</h2>
 <div>
   <p align="center">
     	<a href="https://github.com/Pradeep-prusty/Cricket-Scorecard-Analysis">
